@@ -1,2 +1,2 @@
-# greetingapp
+# componuntpractice
 Created with CodeSandbox
